@@ -1,0 +1,9 @@
+.classpath
+.project
+bin
+.settings
+*.class
+.idea
+
+# Project exclude paths
+/out/
