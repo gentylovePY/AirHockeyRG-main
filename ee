@@ -1,0 +1,27 @@
+ID	DemAffl	DemAge	DemCluster	DemClusterGroup	DemGender	DemReg	DemTVReg	PromClass	PromSpend	PromTime	TargetBuy	TargetAmt
+140	10	76	16	C	U	Midlands	Wales & West	Gold	16000	4	0	0
+620	4	49	35	D	U	Midlands	Wales & West	Gold	6000	5	0	0
+868	5	70	27	D	F	Midlands	Wales & West	Silver	0.02	8	1	1
+1120	10	65	51	F	M	Midlands	Midlands	Tin	0.01	7	1	1
+2313	11	68	4	A	F	Midlands	Midlands	Tin	0.01	8	0	0
+2771	9	72	28	D	U	North	N West	Platinum	20759.81	3	0	0
+3131	11	74	3	A	F	Midlands	East	Tin	0.01	8	0	0
+3328	13	62	32	D	M	North	N East	Tin	0.01	5	0	0
+4529	10	62	49	F	M	Midlands	East	Silver	2038.76	3	0	0
+5886	14	43	49	F	F			Gold	6000	1	1	1
+7420	7	60	52	F	F	North	N East	Gold	11000	2	0	0
+9814	5		24	C	M	South East	London	Silver	5000	1	1	1
+10006	9	51	52	F	F	Midlands	Midlands	Silver	300	11	0	0
+10219	6	64	19	C	F	South East	S & S East	Tin	0.01	9	0	0
+10812	16	37	18	C	F	South East	London	Tin	0.01	4	1	2
+11207	8	54	28	D	M	Midlands	Midlands	Silver	1420	1	0	0
+11932	5	70	15	B	F	Midlands	Midlands	Gold	6104.66	8	0	0
+14656		42	19	C	F	Midlands	East	Tin	0.01	5	1	1
+15350	7		40	E	F	Scottish	C Scotland	Tin	0.01	5	1	1
+17302	7	49	28	D		South East	London	Tin	0.01	7	0	0
+19496	9	66	49	F	F	Midlands	Midlands	Silver	500	12	0	0
+19763	9	74	8	B	F	Midlands	Wales & West	Gold	6000	2	0	0
+20478	6	70	37	E		Midlands	East	Gold	16000	2	0	0
+20761	7	66	30	D	M	South East	S & S East	Silver	1000	5	0	0
+23124	6	46	27	D	F	South East	London	Tin	0.01	8	0	0
+24554	10	39			M	Midlands	Ulster	Tin	0.01	5	0	0
